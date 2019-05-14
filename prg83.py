@@ -10,8 +10,8 @@ else:
 x=x
 sum=0
 dig =1
-strx=str(x)
-1st=list(strx)
+strX=str(x)
+lst=list(strx)
 for i in lst:
 sum+=int(i)*dig
 if(abs(sum)>2**32):
