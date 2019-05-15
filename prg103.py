@@ -1,2 +1,2 @@
-n=raw_input("enter the string:")
-print(n.title())
+xz=input("enter the string:")
+print(xz.title())
