@@ -6,5 +6,5 @@ median1=num[m//2]
 median2=num[m//2-1]
 median=(median1+median2)/2
 else:
-median=num[n//2]
+median=num[m//2]
 print("median is:"+str(median))
